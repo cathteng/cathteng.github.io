@@ -1,0 +1,30 @@
+entries:
+  - title: about
+    entries:
+      - title: I work as a software engineer most of the time. When I'm not, you can find me in a <a href='https://en.wikipedia.org/wiki/Body_of_water'>body of water</a>.
+      - title: more about me
+        url: about
+
+  # - title: posts by category
+  #   post_list:
+  #     category: example2
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
+  
+  - title: projects
+    url: projects
+
+  - title: swim
+    url: swim
+  
+  - title: socials
+    entries:
+      - title: "<a href='https://github.com/cathteng'>github</a>, <a href='https://www.linkedin.com/in/cathyteng'>linkedin</a>, <a href='https://scholar.google.com/citations?user=pz45pEkAAAAJ&hl=en&oi=ao'>google scholar</a>"
+
+  - title: blog
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
