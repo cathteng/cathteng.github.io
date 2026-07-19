@@ -4,36 +4,30 @@ title: swim
 permalink: /swim/
 ---
 
-Things I've done swimmin'.
+Things I've done swimmin' lately.
 
-## recently
+2026-07-18: Second Trans Tahoe (OC Open Boat!)
+- <video width="200" controls muted playsinline style="margin:0">
+    <source src="/assets/videos/tahoe-2.mp4" type="video/mp4">
+    Your browser can't play this video.
+  </video>
+
+2025-08-09: Booked it across Donner Lake
+- <img src="/assets/images/donner.jpg" width="200" style="margin:0">
+
+2025-07-19: First Trans Tahoe!
+- <img src="/assets/images/tahoe-1.jpg" width="200" style="margin:0">
+
+2024-11-20: Swam the Kona Ironman course
+- <img src="/assets/images/kona.jpg" width="200" style="margin:0">
+
+2024-08-17: Raced around the Santa Cruz pier
+- <img src="/assets/images/santa-cruz.jpg" width="200" style="margin:0">
+
 2024-05-17: Put on that old techsuit for the first time in 4 years
 - <img src="/assets/images/memo.jpg" width="200" style="margin:0">
 
 2023-08-05: I escaped Alcatraz!
 - <img src="/assets/images/alcatraz.jpg" width="200" style="margin:0">
 
-
-## in my past
-<a href="/swim-vids">swim vids</a>
-
-<a href="/swim-articles">swim articles</a>
-
-<details>
-  <summary>High School</summary>
-    <ul>
-        <li>School record holder 50/100/200 freestyle</li>
-        <li>CIF-CCS champion 500 freestyle (2016), 100/200 freestyle (2017), team champions (2015), 8x WCAL champion</li>
-        <li>4-year NISCA All-American, 3x USA Swimming Scholastic All-American</li>
-        <li>WCAL recold holder 200 free</li>
-    </ul>
-</details>
-
-<details>
-  <summary>Santa Clara Swim Club</summary>
-    <ul>
-        <li>2017 USA Swimming World Championship Trials qualifier, 2017 National Select Camp invitee</li>
-        <li>2016 Winter Junior National Championships West finalist</li>
-        <li>Multiple individual and relay records</li>
-    </ul>
-</details>
+## <a href="/swim-archive">in my past</a>
